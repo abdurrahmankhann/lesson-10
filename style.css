@@ -1,0 +1,15 @@
+input[type=text] {
+    border: 4px solid blueviolet
+}
+
+input[ type=password] {
+    border: 4px solid blue
+}
+
+ol>li {
+    color: chocolate
+}
+
+h4+p {
+    color: burlywood
+}
